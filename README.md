@@ -136,7 +136,7 @@ También se observó la importancia de complementar las alertas existentes con o
 
 | Recurso | Acceso |
 |---|---|
-| Análisis exploratorio en Python | [Ver notebook](notebooks/Analisis_Fraude_Bancario_FINAL-.ipynb)) |
+| Análisis exploratorio en Python | [Ver notebook](notebooks/Analisis_Fraude_Bancario_FINAL-.ipynb) |
 | Dashboard | [Ver imagen](dashboard/Dashboard_Fraude_Bancario.png) |
 | Información del dataset | [Ver carpeta de datos](data/raw/README.md) |
 | Dataset original | [Consultar Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1) |
